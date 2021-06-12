@@ -1,5 +1,5 @@
 
-<h3 align="justify"> Hi there, I am Fiky Anggara , Mengambil Kuliah Jurusan Information Technology, Btw makasih dah kesini   <h3>
+<h3 align="justify"> Hi there, I am Fiky Anggara , Mengambil Kuliah Jurusan Information Technology, Terimakasih sudah Mampir kesini   <h3>
 <img src='https://visitor-badge.laobi.icu/badge?page_id=fiky-web.fiky-web')>
 <h3>Below the list of technologies i've learned so far</h3>
     <p align="center">
