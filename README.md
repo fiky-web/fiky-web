@@ -36,12 +36,7 @@
             <img align='left' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fiky-web&&layout=compact&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515">
         </td>
     </tr>
-            ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiky-web&layout=compact&theme=dark&hide_border=true)
-
-            ![Fiky-web github stats](https://github-readme-stats.vercel.app/api?username=fiky-web&show_icons=true&hide_border=true&theme=dark)
-
-            [![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/fiky-web/github-profile-trophy)
-
+            
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="18px"> You Can Reach Me at 
 
 <p>
@@ -50,6 +45,12 @@
   <a href="mailto:fikyanggara05@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>  
 
 </p>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiky-web&layout=compact&theme=dark&hide_border=true)
+
+            ![Fiky-web github stats](https://github-readme-stats.vercel.app/api?username=fiky-web&show_icons=true&hide_border=true&theme=dark)
+
+            [![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/fiky-web/github-profile-trophy)
+
 
 
 
