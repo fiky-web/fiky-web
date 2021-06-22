@@ -41,7 +41,7 @@
             ![Fiky-web github stats](https://github-readme-stats.vercel.app/api?username=fiky-web&show_icons=true&hide_border=true&theme=dark)
 
             [![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/fiky-web/github-profile-trophy)
-        </td?
+        </td>
     </tr>
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="18px"> You Can Reach Me at 
