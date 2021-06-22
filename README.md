@@ -35,13 +35,11 @@
         <td>
             <img align='left' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fiky-web&&layout=compact&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515">
         </td>
-        <td>
             ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiky-web&layout=compact&theme=dark&hide_border=true)
 
             ![Fiky-web github stats](https://github-readme-stats.vercel.app/api?username=fiky-web&show_icons=true&hide_border=true&theme=dark)
 
             [![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/fiky-web/github-profile-trophy)
-        </td>
     </tr>
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="18px"> You Can Reach Me at 
