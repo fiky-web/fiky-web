@@ -45,11 +45,11 @@
   <a href="mailto:fikyanggara05@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>  
 
 </p>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiky-web&layout=compact&theme=dark&hide_border=true)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiky-web&layout=compact&theme=dark&hide_border=true)
 
-            ![Fiky-web github stats](https://github-readme-stats.vercel.app/api?username=fiky-web&show_icons=true&hide_border=true&theme=dark)
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=fiky-web&show_icons=true&hide_border=true&theme=dark)
 
-            [![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/fiky-web/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/fiky-web/github-profile-tr
 
 
 
