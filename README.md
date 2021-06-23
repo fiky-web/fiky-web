@@ -2,7 +2,7 @@
 <h3 align="justify"> Hi there, I am Fiky Anggara , Information Technology, Thanks for your visit my github   <h3>
 <img src='https://visitor-badge.laobi.icu/badge?page_id=fiky-web.fiky-web')>
     <p align="center">
-        <img src="https://i0.wp.com/i.giphy.com/media/ZVik7pBtu9dNS/giphy-downsized.gif?w=770&ssl=1" alt="Word" width=650 height=350 />
+        <img src="https://i0.wp.com/i.giphy.com/media/ZVik7pBtu9dNS/giphy-downsized.gif?w=770&ssl=1" alt="Word" width=600 height=300 />
 </p>
 <h3>Below the list of technologies i've learned so far</h3>
     <p align="center">
