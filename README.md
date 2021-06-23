@@ -28,7 +28,7 @@
         <img src="https://img.icons8.com/dusk/48/000000/css3.png" alt="css3"  width="50" height="50" />
        </p>
        <p align="center">
-        <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Word" width=650 height=350 />
+        <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Word" width=600 height=350 />
         </p>
 <table>
     <tr>
