@@ -3,7 +3,7 @@
     <h3 align="justify"> IOT (Internet Of Things) enthusiast &  Web Developer<h3>
 <img src='https://visitor-badge.laobi.icu/badge?page_id=fiky-web.fiky-web')>
     <p align="center">
-        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Word" width=600 height=300 />
+        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="Word" width=600 height=300 />
 </p>
 <h3>Below the list of technologies i've learned so far</h3>
     <p align="center">
