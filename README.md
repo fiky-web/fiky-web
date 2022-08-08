@@ -2,7 +2,7 @@
 ### Hi there 👋
 #### My name is Fiky Anggara, you can call me Fiky
 - #### Final Year student of Information Technology at Telkom University
-- #### I am IoT (Internet of Things) Enthusiast and Web Developer
+- #### I am IoT (Internet of Things) Enthusiast and Web Developers
 <h3 align="justify"><h3>
     <h3 align="justify"><h3>
 <img src='https://visitor-badge.laobi.icu/badge?page_id=fiky-web.fiky-web')>
