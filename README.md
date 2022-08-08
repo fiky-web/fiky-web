@@ -1,5 +1,5 @@
 
-<h3 align="justify"> Hi there, I am Fiky Anggara , Final Year student of Information Technology at Telkom University<h3>
+<h3 align="justify"> Hi there, I am Fiky Anggara and you can call me fiky, Final Year student of Information Technology at Telkom University<h3>
     <h3 align="justify"> IOT (Internet Of Things) enthusiast &  Web Developer<h3>
 <img src='https://visitor-badge.laobi.icu/badge?page_id=fiky-web.fiky-web')>
     <p align="center">
