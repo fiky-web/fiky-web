@@ -11,7 +11,8 @@
         <img src="https://img.icons8.com/color/48/000000/javascript.png" width="50" height="50">
         <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/java.svg" alt="JAVA" width="50" height="50"/> 
         <img src="https://img.icons8.com/color/48/000000/html-5.png" width="50" height="50" />
-        <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" width="50" height="50"/> 
+        <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" width="50" height="50"/>
+        <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="ReactJS" width="50" height="50"/> 
         <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="50" height="50"/>
         <img src="https://img.icons8.com/color/48/000000/kotlin.png" height="50" width="50"/>
         <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"  width="50" height="50" />
