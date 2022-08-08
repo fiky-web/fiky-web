@@ -1,6 +1,10 @@
 
-<h3 align="justify"> Hi there, I am Fiky Anggara and you can call me fiky, Final Year student of Information Technology at Telkom University<h3>
-    <h3 align="justify"> IOT (Internet Of Things) enthusiast &  Web Developer<h3>
+### Hi there 👋
+#### My name is Fiky Anggara, you can call me Fiky
+- #### Final Year student of Information Technology at Telkom University
+- #### I am IoT (Internet of Things) Enthusiast and Web Developer
+<h3 align="justify"><h3>
+    <h3 align="justify"><h3>
 <img src='https://visitor-badge.laobi.icu/badge?page_id=fiky-web.fiky-web')>
     <p align="center">
         <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
