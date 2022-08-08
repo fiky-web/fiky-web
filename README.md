@@ -24,17 +24,18 @@
         <img src="https://img.icons8.com/dusk/48/000000/css3.png" alt="css3"  width="50" height="50" />
        </p>
 <table>
-<tr>
-    ### Github Statistic
 
-<p align="left">
-<a href="https://github.com/fiky-web">
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fiky-web&layout=compact&langs_count=8&theme=buefy"/>
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fiky-web&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-    </tr>
-            
+
+<tr>
+        <td>
+            <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fiky-web&layout=compact&langs_count=8&theme=buefy"/>
+        </td>
+        <td>
+            <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fiky-web&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+        </td>
+</tr>
+
+                
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="18px"> You Can Reach Me at 
 
 <p>
