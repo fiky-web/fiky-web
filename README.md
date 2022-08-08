@@ -11,7 +11,8 @@
         <img src="https://img.icons8.com/color/48/000000/javascript.png" width="50" height="50">
         <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/java.svg" alt="JAVA" width="50" height="50"/> 
         <img src="https://img.icons8.com/color/48/000000/html-5.png" width="50" height="50" />
-        <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" width="50" height="50"/> 
+        <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" width="50" height="50"/>
+        <img src="https://img.icons8.com/color/48/000000/react-js.png" alt="ReactJS" width="50" height="50"/> 
         <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="50" height="50"/>
         <img src="https://img.icons8.com/color/48/000000/kotlin.png" height="50" width="50"/>
         <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"  width="50" height="50" />
@@ -24,16 +25,15 @@
         <img src="https://img.icons8.com/dusk/48/000000/css3.png" alt="css3"  width="50" height="50" />
        </p>
 <table>
-<tr>
+    <tr>
         <td>
-            <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fiky-web&layout=compact&langs_count=8&theme=buefy"/>
+            <img align='right' src = "https://github-readme-stats.vercel.app/api?username=fiky-web&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=25">
         </td>
         <td>
-            <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fiky-web&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+            <img align='left' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fiky-web&&layout=compact&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515">
         </td>
-</tr>
-
-                
+    </tr>
+            
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="18px"> You Can Reach Me at 
 
 <p>
@@ -42,8 +42,3 @@
   <a href="mailto:fikyanggara05@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>  
 
 </p>
-   
-
-
-
-
