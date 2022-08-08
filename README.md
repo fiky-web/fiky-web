@@ -24,8 +24,6 @@
         <img src="https://img.icons8.com/dusk/48/000000/css3.png" alt="css3"  width="50" height="50" />
        </p>
 <table>
-
-
 <tr>
         <td>
             <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fiky-web&layout=compact&langs_count=8&theme=buefy"/>
