@@ -6,9 +6,6 @@
 <h3 align="justify"><h3>
     <h3 align="justify"><h3>
 <img src='https://visitor-badge.laobi.icu/badge?page_id=fiky-web.fiky-web')>
-    <p align="center">
-        <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-</p>
 <h3>Below the list of technologies i've learned so far</h3>
     <p align="center">
         <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/jquery_logo.svg" alt="jquery" width="50" height="50" />
@@ -27,8 +24,10 @@
         <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus"  width="50" height="50" />
         <img src="https://img.icons8.com/dusk/48/000000/css3.png" alt="css3"  width="50" height="50" />
        </p>
-       
 <table>
+<p align="center">
+        <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="650" height="350" />
+</p>
     <tr>
         <td>
             <img align='right' src = "https://github-readme-stats.vercel.app/api?username=fiky-web&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=25">
