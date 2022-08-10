@@ -25,9 +25,7 @@
         <img src="https://img.icons8.com/dusk/48/000000/css3.png" alt="css3"  width="50" height="50" />
        </p>
 <table>
-<p align="center">
-        <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="650" height="350" />
-</p>
+
 
 <table>
     <tr>
