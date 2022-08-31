@@ -35,15 +35,12 @@
 
 </p>
 
-
----
-
 <table>
     <tr>
         <td>
-            <img align='right' src = "https://github-readme-stats.vercel.app/api?username=fiky-web&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=25">
+            <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fiky-web&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
         </td>
         <td>
-            <img align='left' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fiky-web&&layout=compact&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515">
+            <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fiky-web&layout=compact&langs_count=8&theme=buefy"/>
         </td>
     </tr>
