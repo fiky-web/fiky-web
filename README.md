@@ -41,6 +41,6 @@
             <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fiky-web&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
         </td>
         <td>
-            <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fiky-web&layout=compact&langs_count=8&theme=buefy"/>
+            <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fiky-web&layout=compact&langs_count=8&theme=buefy&include_all_commits=true&count_private=true"/>
         </td>
     </tr>
